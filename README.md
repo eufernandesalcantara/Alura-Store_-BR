@@ -46,7 +46,7 @@ Clone este repositório para sua máquina local ou simplesmente faça o download
 
 Bash
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone (https://github.com/eufernandesalcantara/Alura-Store_-BR)
 cd seu-repositorio
 3. Execução da Análise
 Abra o arquivo de notebook (analise_alura_store.ipynb, por exemplo) no Jupyter Notebook, JupyterLab ou Google Colab. Simplesmente execute as células do notebook em ordem, de cima para baixo. As análises, tabelas e visualizações serão geradas e exibidas diretamente no notebook.
