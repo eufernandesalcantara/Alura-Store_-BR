@@ -52,7 +52,7 @@ cd seu-repositorio
 Abra o arquivo de notebook (analise_alura_store.ipynb, por exemplo) no Jupyter Notebook, JupyterLab ou Google Colab. Simplesmente execute as células do notebook em ordem, de cima para baixo. As análises, tabelas e visualizações serão geradas e exibidas diretamente no notebook.
 
 📁 Fonte dos Dados
-Os dados utilizados neste projeto são provenientes de quatro arquivos CSV, cada um representando uma loja. Os dados estão disponíveis publicamente no repositório GitHub da Alura.
+Os dados utilizados neste projeto são provenientes de quatro arquivos CSV, cada um representando uma loja. Os dados estão disponíveis publicamente no repositório.
 
 Loja 1
 
